@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5df8fefb-18f7-4dcb-92f2-afb59c5d46cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/design_pattern/pattern.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/warmup_hackkerank/aVeryBigSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/warmup_hackkerank/compareTheTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/warmup_hackkerank/simpleArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/warmup_hackkerank/solveMeFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/warmup_hackkerank/diagonalDifference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/warmup_hackkerank/aVeryBigSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/warmup_hackkerank/aVeryBigSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,20 @@
       <recent name="C:\Git\Github\java-code\src\dsa\binary_number" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.compareTheTriplets">
+  <component name="RunManager" selected="Application.diagonalDifference">
+    <configuration name="aVeryBigSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.warmup_hackkerank.aVeryBigSum" />
+      <module name="java-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.warmup_hackkerank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="compareTheTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.warmup_hackkerank.compareTheTriplets" />
       <module name="java-code" />
@@ -69,25 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dsa.binary_number.intToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.binary_number.intToBinary" />
+    <configuration name="diagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.warmup_hackkerank.diagonalDifference" />
       <module name="java-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.binary_number.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="intToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_core.intToBinary" />
-      <module name="java-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_core.*" />
+          <option name="PATTERN" value="dsa.warmup_hackkerank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.diagonalDifference" />
+        <item itemvalue="Application.aVeryBigSum" />
         <item itemvalue="Application.compareTheTriplets" />
         <item itemvalue="Application.simpleArraySum" />
         <item itemvalue="Application.solveMeFirst" />
-        <item itemvalue="Application.intToBinary" />
-        <item itemvalue="Application.dsa.binary_number.intToBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +140,7 @@
       <workItem from="1657441186897" duration="139000" />
       <workItem from="1657461060385" duration="1235000" />
       <workItem from="1657552350867" duration="7331000" />
-      <workItem from="1657596782051" duration="6752000" />
+      <workItem from="1657596782051" duration="11744000" />
     </task>
     <servers />
   </component>
