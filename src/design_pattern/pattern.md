@@ -1,5 +1,0 @@
-- data transfer object : 
-  - https://java-design-patterns.com/patterns/data-transfer-object/
-  - https://www.baeldung.com/java-dto-pattern
-- https://java-design-patterns.com/patterns/
-- https://refactoring.guru/design-patterns/java

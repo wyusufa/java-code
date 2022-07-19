@@ -1,4 +1,4 @@
-package dsa.warmup_hackkerank;
+package warmup_hackkerank;
 
 import java.util.ArrayList;
 import java.util.List;
