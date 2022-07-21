@@ -9,4 +9,14 @@ example 2
 - space complexity: O(n^2)
 
 example 3 
-- time complexity : O()
+- time complexity : O(n^2)
+- space complexity: O(n^2)
+
+example 4
+- time complexity : O(a.b)
+- space complexity: O(a.b)
+
+
+example 5
+- time complexity : O(a.b)
+- space complexity: O(a.b)
