@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5df8fefb-18f7-4dcb-92f2-afb59c5d46cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5df8fefb-18f7-4dcb-92f2-afb59c5d46cc" name="Changes" comment="3 soal bigO dari buku CCI">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bigO/answer_cci_book.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/bigO/answer_cci_book.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/warmup_hackkerank/aVeryBigSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/warmup_hackerrank/aVeryBigSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/warmup_hackkerank/compareTheTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/warmup_hackerrank/compareTheTriplets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/warmup_hackkerank/diagonalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/warmup_hackerrank/diagonalDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/warmup_hackkerank/simpleArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/warmup_hackerrank/simpleArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/warmup_hackkerank/solveMeFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/warmup_hackerrank/solveMeFirst.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +57,7 @@
       <recent name="C:\Git\Github\java-code\src\dsa\binary_number" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.diagonalDifference">
+  <component name="RunManager" selected="Application.dsa.warmup_hackkerank.diagonalDifference">
     <configuration name="aVeryBigSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.warmup_hackkerank.aVeryBigSum" />
       <module name="java-code" />
@@ -120,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.diagonalDifference" />
-        <item itemvalue="Application.aVeryBigSum" />
-        <item itemvalue="Application.compareTheTriplets" />
+        <item itemvalue="Application.dsa.warmup_hackkerank.diagonalDifference" />
+        <item itemvalue="Application.dsa.warmup_hackkerank.aVeryBigSum" />
+        <item itemvalue="Application.dsa.warmup_hackkerank.compareTheTriplets" />
         <item itemvalue="Application.simpleArraySum" />
-        <item itemvalue="Application.solveMeFirst" />
+        <item itemvalue="Application.dsa.warmup_hackkerank.solveMeFirst" />
       </list>
     </recent_temporary>
   </component>
@@ -142,8 +147,16 @@
       <workItem from="1657552350867" duration="7331000" />
       <workItem from="1657596782051" duration="12468000" />
       <workItem from="1657674168232" duration="24000" />
-      <workItem from="1658366695978" duration="2151000" />
+      <workItem from="1658366695978" duration="2309000" />
     </task>
+    <task id="LOCAL-00001" summary="3 soal bigO dari buku CCI">
+      <created>1658370651994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658370651994</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,5 +172,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3 soal bigO dari buku CCI" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 soal bigO dari buku CCI" />
   </component>
 </project>

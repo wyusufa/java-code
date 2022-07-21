@@ -1,6 +1,5 @@
-package warmup_hackkerank;
+package warmup_hackerrank;
 
-import java.util.ArrayList;
 import java.util.List;
 
 //EASY
